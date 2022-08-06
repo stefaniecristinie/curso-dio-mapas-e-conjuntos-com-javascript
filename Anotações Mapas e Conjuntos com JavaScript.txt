@@ -1,0 +1,23 @@
+Coleção Map:
+
+Estrutura do Map - coleções chaveadas (estrutura de dados no formato chave e valor).
+
+Métodos Map:
+Adicionar: set;
+Ler: get;
+Deletar: delete.
+
+Diferença entre Map e Objeto:
+Objeto: chaves no formato de strings, utilizado quando conhecemos o valor das chaves e não precisa ter valores do mesmo tipo.
+
+Coleção chaveada - Set:
+
+Métodos:
+Adicionar: add;
+Consultar: has;
+Deletar: delete.
+
+Diferença entre Set e Array:
+Array: pode ter valores repetidos.
+
+*Sets e Maps são coleções chaveadas, enquanto Arrays e Objetos não.
